@@ -35,4 +35,6 @@ html {
     left: -18px;
     background-color: #1d1e22;
     content: "";
+    width: 32px;
+    height: 100px;
   }
