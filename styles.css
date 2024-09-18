@@ -50,6 +50,7 @@ html {
   }
 
   @media (max-width: 768px){
-    .card{
+    #piano{
+      width: 358px;
     }
   }
