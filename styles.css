@@ -35,6 +35,7 @@ html {
 
   .key.black--key::after{
     position: absolute;
+    border-radius: 0 0 3px 3px;
     left: -18px;
     background-color: #1d1e22;
     content: "";
